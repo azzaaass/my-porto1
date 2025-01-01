@@ -67,7 +67,7 @@ const dataportfolio = [
   {
     img: "https://mf-chan.com/tel-u-logo/lib/Tel-U/primer-vertikal.png",
     description: "Simda (SPM Tel-U Surabaya)",
-    link: "#",
+    link: "https://github.com/azzaaass/spm_api",
   },
   {
     img: "https://mf-chan.com/tel-u-logo/lib/Tel-U/primer-vertikal.png",
