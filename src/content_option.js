@@ -13,7 +13,7 @@ const introdata = {
     third: "Freelancer",
   },
   description: "Self-taught student at Telkom University Surabaya with a strong passion for design and programming",
-  your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+  your_img_url: "https://i.pinimg.com/originals/3f/d1/c1/3fd1c1b6274aaead948f245b4d20077f.jpg",
 };
 
 const dataabout = {
@@ -65,37 +65,37 @@ const services = [
 
 const dataportfolio = [
   {
-    img: "https://picsum.photos/400/?grayscale",
+    img: "https://mf-chan.com/tel-u-logo/lib/Tel-U/primer-vertikal.png",
     description: "Simda (SPM Tel-U Surabaya)",
     link: "#",
   },
   {
-    img: "https://picsum.photos/400/800/?grayscale",
+    img: "https://mf-chan.com/tel-u-logo/lib/Tel-U/primer-vertikal.png",
     description: "Dagri Online",
     link: "#",
   },
   {
-    img: "https://picsum.photos/400/?grayscale",
+    img: "https://mf-chan.com/tel-u-logo/lib/Tel-U/primer-vertikal.png",
     description: "SSC Website",
     link: "#",
   },
   {
-    img: "https://picsum.photos/400/600/?grayscale",
+    img: "https://mf-chan.com/tel-u-logo/lib/Tel-U/primer-vertikal.png",
     description: "Smart Loker",
     link: "#",
   },
   {
-    img: "https://picsum.photos/400/300/?grayscale",
+    img: "https://mf-chan.com/tel-u-logo/lib/Tel-U/primer-vertikal.png",
     description: "Puskesmas Cisadea",
     link: "#",
   },
   {
-    img: "https://picsum.photos/400/700/?grayscale",
+    img: "https://mf-chan.com/tel-u-logo/lib/Tel-U/primer-vertikal.png",
     description: "Tusmart",
     link: "#",
   },
   {
-    img: "https://picsum.photos/400/700/?grayscale",
+    img: "https://mf-chan.com/tel-u-logo/lib/Tel-U/primer-vertikal.png",
     description: "Green School",
     link: "https://www.figma.com/design/Azc5YxpeViDMB03X7TYK6q/Green-School?node-id=0-1&t=tk6ZCbf2yOkKBUui-1",
   },
